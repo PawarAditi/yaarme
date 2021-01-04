@@ -1,0 +1,46 @@
+<style>
+#back-arrow
+
+#button-holder{
+     
+    
+    float:left;
+    height:27px;
+    margin:10px 0 0 0;
+    text-align:center;
+    width:50px;
+}
+#img-logo-1 img{
+  float : center;
+  height: 150px;
+  width: 600px;
+} 
+#button-holder img{
+    margin:4px;
+    width:20px; 
+}
+
+#logo-image1 img{
+  float:left;
+  height:50px;
+  width: 50px;
+}
+
+#logo-image img{
+  float: center;
+  height: 350px;
+  width:350px;
+}
+
+#more{
+  display: none;
+}
+hr {  
+  border: 2px solid #f1f1f1;  
+  margin-bottom: 20px;  
+}  
+p {
+  margin-top: 0em ;
+  margin-bottom: 0em ;
+}
+</style>
